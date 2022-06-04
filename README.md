@@ -13,7 +13,7 @@
 😎 I love Cricket and Binge Watching the movies for sometimes
 📫 How to reach me -&gt; drop me a mail at prajaktakhadse00@gmail.com
 ❤️ You can ping me at LinkedIn"><pre class="notranslate"><code>👋 Hello, Welcome to my profile
-🌱 I’m currently looking for an opportunity as a JAVA Backend developer
+🌱 I’m currently looking for an opportunity as a Front-End developer
 ⚡ I'm a passionate software developer
 👀 I’m interested in problem solving and data analytics and manipulation
 😂 I’m also having a great sense of humour with additional touch of memeing..

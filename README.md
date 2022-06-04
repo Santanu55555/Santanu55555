@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **shaantanu1234@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1f6VoTT8wO0JHcWdO3Z0RDw8ZbyuG0dO-fBK8tzeTcl0/edit](https://docs.google.com/document/d/1f6VoTT8wO0JHcWdO3Z0RDw8ZbyuG0dO-fBK8tzeTcl0/edit)
+- 📄 Want to Know about my me ? [https://docs.google.com/document/d/1f6VoTT8wO0JHcWdO3Z0RDw8ZbyuG0dO-fBK8tzeTcl0/edit](https://docs.google.com/document/d/1f6VoTT8wO0JHcWdO3Z0RDw8ZbyuG0dO-fBK8tzeTcl0/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

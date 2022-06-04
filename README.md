@@ -28,9 +28,9 @@
 
 - 🌱 I’m currently learning **React,mongoDB,node JS**
 
-- 📫 How to reach me <a href="mailto:Shaantanu1234@gmail.com">here</a>
+- 📫 You can mail me <a href="mailto:Shaantanu1234@gmail.com">here</a>
 
-- 📄 Want to Know about my me ? <a href="https://docs.google.com/document/d/1f6VoTT8wO0JHcWdO3Z0RDw8ZbyuG0dO-fBK8tzeTcl0/edit">Resume</a>
+- 📄 Want to Know about me ? <a href="https://docs.google.com/document/d/1f6VoTT8wO0JHcWdO3Z0RDw8ZbyuG0dO-fBK8tzeTcl0/edit">Resume</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -6,6 +6,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px" width="30px">, I'm Santanu Mohapatra</h1>
 <h1 dir="auto"><a id="user-content-about-me-" class="anchor" aria-hidden="true" href="#about-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji>About Me :</h1>
 
+
                                                                                                                         
                                                                                                                         
 👋 Hello, Welcome to my profile<br/>
@@ -19,7 +20,7 @@
 </code></pre></div>
 <!-- ![living](https://img.shields.io/badge/living-Chandrapur,Maharashtra-maroon) -->
 <!-- ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal) -->
-
+<!-- <img align="top" padding-left="500px" width="100px" height="100px" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611944b82d550a200f205e75471226f33216c8cae89&rid=giphy.gif&ct=g"> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=santanu55555&label=Profile%20views&color=0e75b6&style=flat" alt="santanu55555" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santanu55555" alt="santanu55555" /></a> </p>
@@ -60,3 +61,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Santanu55555&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santanu55555&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>

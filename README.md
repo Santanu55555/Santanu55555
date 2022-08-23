@@ -51,6 +51,6 @@
 <a href="https://github.com/santanu55555-cmd/github-readme-activity-graph"><img alt="santanu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=santanu55555&bg_color=0D1147&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Santanu55555&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santanu55555&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santanu55555&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>

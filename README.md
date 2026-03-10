@@ -13,7 +13,7 @@
 ⚡ I'm a passionate full stack software developer<br/>
 📫 How to reach me, drop me a mail at <a href="mailto:Shaantanu1234@gmail.com">here</a><br/>
 ❤️ You can ping me at <a href="https://www.linkedin.com/in/santanu-mohapatra-880204200/">LinkedIn</a><br/>
-📄 Want to know about me ? <a href="https://docs.google.com/document/d/1f6VoTT8wO0JHcWdO3Z0RDw8ZbyuG0dO-fBK8tzeTcl0/edit">Resume</a>
+
 </code></pre></div>
 <!-- ![living](https://img.shields.io/badge/living-Chandrapur,Maharashtra-maroon) -->
 <!-- ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal) -->

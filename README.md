@@ -26,7 +26,6 @@
 </p>
 
 <!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santanu55555&show_icons=true&locale=en&layout=compact" alt="santanu55555" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santanu55555&show_icons=true&locale=en" alt="santanu55555" /></p>
 
@@ -35,7 +34,6 @@
 <!-- <h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1> -->
 <!-- ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg) -->
 
-<a href="https://github.com/santanu55555-cmd/github-readme-activity-graph"><img alt="santanu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=santanu55555&bg_color=0D1147&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Santanu55555&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santanu55555&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&show_owner=true)

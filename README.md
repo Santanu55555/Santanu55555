@@ -18,12 +18,6 @@
 <!-- ![living](https://img.shields.io/badge/living-Chandrapur,Maharashtra-maroon) -->
 <!-- ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal) -->
 <!-- <img align="top" padding-left="500px" width="100px" height="100px" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611944b82d550a200f205e75471226f33216c8cae89&rid=giphy.gif&ct=g"> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=santanu55555&label=Profile%20views&color=0e75b6&style=flat" alt="santanu55555" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santanu55555" alt="santanu55555" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

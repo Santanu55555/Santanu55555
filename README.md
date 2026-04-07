@@ -15,7 +15,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Based%20In-Pune%2C%20India-10b981?style=for-the-badge&logo=googlemaps&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-f59e0b?style=for-the-badge&logoColor=white" />
 </div>
 
 <br/>

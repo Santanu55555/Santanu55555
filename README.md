@@ -58,14 +58,6 @@ const santanu = {
 
 ***
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santanu55555&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-***
-
 ## 🛰️ GitHub Stats
 
 <div align="center">
@@ -76,14 +68,6 @@ const santanu = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santanu55555&theme=tokyonight&hide_border=true" height="180"/>
-</div>
-
-***
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santanu55555&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 ***

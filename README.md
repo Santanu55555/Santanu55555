@@ -1,41 +1,127 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:2d1b69,100:6366f1&height=280&section=header&text=Santanu%20Mohapatra&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js&descSize=20&descColor=a5b4fc&fontAlignY=38&descAlignY=58" width="100%" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full++stack+developer;MERN++stack+developer)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=3%2B+Years+Building+Production+Web+Apps+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+TypeScript+Expert+%E2%9A%A1;Automotive+%7C+Aviation+%7C+Banking+%7C+Finance+%F0%9F%8F%A2;Enterprise+Dashboards+%7C+REST+APIs+%7C+CMS+%F0%9F%94%A7;Clean+Code.+Fast+UIs.+Real+Impact.+%F0%9F%8E%AF" alt="Typing SVG" />
+</div>
 
+<br/>
 
-<img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cq8zq18nxebpo5t2r1dgnmyddibdq953rd74v2xb&rid=giphy.gif&ct=g" height="" width="300" alt="">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px" width="30px">, I'm Santanu Mohapatra</h1>
-<h1 dir="auto"><a id="user-content-about-me-" class="anchor" aria-hidden="true" href="#about-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji>About me :</h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-6366f1?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-0ea5e9?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20In-Pune%2C%20India-10b981?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-f59e0b?style=for-the-badge&logoColor=white" />
+</div>
 
+<br/>
 
-                                                                                                                        
-                                                                                                                        
-👋 Hello, Welcome to my profile<br/>
-⚡ I'm a passionate full stack software developer<br/>
-📫 How to reach me, drop me a mail at <a href="mailto:Shaantanu1234@gmail.com">here</a><br/>
-❤️ You can ping me at <a href="https://www.linkedin.com/in/santanu-mohapatra-880204200/">LinkedIn</a><br/>
+***
 
-</code></pre></div>
-<!-- ![living](https://img.shields.io/badge/living-Chandrapur,Maharashtra-maroon) -->
-<!-- ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal) -->
-<!-- <img align="top" padding-left="500px" width="100px" height="100px" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611944b82d550a200f205e75471226f33216c8cae89&rid=giphy.gif&ct=g"> -->
+## 🧑‍💻 About Me
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/santanu-mohapatra-880204200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanu-mohapatra-880204200" height="30" width="40" /></a>
+```javascript
+const santanu = {
+  role       : "Frontend Developer",
+  company    : "Newgen DigitalWorks Pvt. Ltd.",
+  experience : "3+ years building production-grade apps",
+  domains    : ["Automotive", "Aviation", "Finance", "Banking"],
+  expertise  : ["React.js", "Next.js", "REST APIs", "State Management"],
+  superpower : "Turning complex requirements into clean, scalable UIs",
+  contact    : "santanu.07.m@gmail.com",
+};
+```
 
-</p>
+***
 
-<!-- 
+## ⚡ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santanu55555&show_icons=true&locale=en" alt="santanu55555" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santanu55555&" alt="santanu55555" /></p> -->
+**Frontend**
 
-<!-- <h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1> -->
-<!-- ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg) -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,redux&theme=dark" />
 
+**Backend & Database**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Santanu55555&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santanu55555&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&show_owner=true)
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgresql,graphql,postman&theme=dark" />
 
-<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,wordpress,figma&theme=dark" />
+
+</div>
+
+***
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Santanu55555&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+***
+
+## 🛰️ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Santanu55555&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Santanu55555&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santanu55555&theme=tokyonight&hide_border=true" height="180"/>
+</div>
+
+***
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santanu55555&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+***
+
+## 📡 Let's Connect
+
+<div align="center">
+  <a href="mailto:santanu.07.m@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/santanu-mohapatra-880204200/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Santanu55555" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://santanu-portfolio07.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/12TnQpHo4AE7moqSi0OB8qGXJ6FJqH-0S/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Santanu55555&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0a0a2e&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <i>⭐ If you like what you see, let's build something great together!</i>
+</div>

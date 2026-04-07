@@ -46,11 +46,11 @@ const santanu = {
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,redux&theme=dark" />
 
-**Backend & Database**
+**Backend and Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgresql,graphql,postman&theme=dark" />
 
-**Tools & Platforms**
+**Tools and Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,wordpress,figma&theme=dark" />
 
@@ -72,10 +72,10 @@ const santanu = {
 
 ***
 
-## 📡 Let's Connect
+## 📡 Connect With Me
 
 <div align="center">
-  <a href="mailto:santanu.07.m@gmail.com" target="_blank" rel="noopener">
+  <a href="mailto:santanu.07.m@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -107,5 +107,5 @@ const santanu = {
 </div>
 
 <div align="center">
-  <i>⭐ If you like what you see, let's build something great together!</i>
+  <i>If you like what you see, lets build something great together!</i>
 </div>

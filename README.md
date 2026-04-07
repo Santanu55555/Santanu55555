@@ -75,7 +75,7 @@ const santanu = {
 ## 📡 Let's Connect
 
 <div align="center">
-  <a href="mailto:santanu.07.m@gmail.com">
+  <a href="mailto:santanu.07.m@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;

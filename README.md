@@ -97,9 +97,7 @@ const santanu = {
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Santanu55555&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0a0a2e&height=120&section=footer" width="100%"/>

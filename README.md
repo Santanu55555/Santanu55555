@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=3.5%2B+Years+Building+Production+Web+Apps+%F0%9F%9A%80;React.js+%7C+ASP.NET+Core+%7C+Next.js+Expert+%E2%9A%A1;Automotive+%7C+Aviation+%7C+Banking+%7C+Finance+%F0%9F%8F%A2;Enterprise+Dashboards+%7C+REST+APIs+%7C+Azure+%F0%9F%94%A7;Clean+Code.+Fast+UIs.+Real+Impact.+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=3.5%2B+Years+Building+Production+Web+Apps;React.js+%7C+ASP.NET+Core+%7C+Next.js+Expert+%E2%9A%A1;Automotive+%7C+Aviation+%7C+Banking+%7C+Finance+%F0%9F%8F%A2;Enterprise+Dashboards+%7C+REST+APIs+%7C+Azure+%F0%9F%94%A7;Clean+Code.+Fast+UIs.+Real+Impact.+%F0%9F%8E%AF" alt="Typing SVG" />
 </div>
 
 <br/>
